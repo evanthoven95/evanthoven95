@@ -1,6 +1,6 @@
-### # Hi, I'm Alexis! 👋 👋
+###  Hi, I'm Alexis! 👋 👋
 I´m a trainee Front End developer
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Javascript, html, css, React.
-- 📫 How to reach me: Jose Alexis Vazquez Amores on LinkedIn
+- 📫 How to reach me: Alexis Amores on LinkedIn
 
