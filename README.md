@@ -20,6 +20,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [fasta-parser](https://github.com/evanthoven95/fasta-parser) | FASTA file parser for biological sequences — computes GC content and sequence length, exports to CSV. Built with Python standard library only. | Python
 | [HealtyLife](https://github.com/evanthoven95/HealtyLife.github.io) | Exercise and diet reference page with BMI calculator | HTML, CSS, JS |
 | [NovatekIndustries](https://github.com/evanthoven95/NovatekIndustries.github.io) | Corporate website mockup inspired by industrial design | HTML, CSS |
 | [Todo List](https://github.com/evanthoven95/Todo-list.github.io) | Basic task manager | HTML, CSS, JS |
